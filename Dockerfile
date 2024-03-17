@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.25.4-alpine3.18
 
 # Labels
 LABEL maintainer="Ja7adr <ja7adr@gmail.com>"
